@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Reddy</h1> 
 
-- 🔭 I’m currently working on **FoodVision with CNN** 
+- 🔭 I’m currently working on **FoodVision with CNN's** 
 - 🌱 I’m currently learning **Natural Language Processing**  
 - :handshake: I’m looking to collaborate on anything related **Machine Learning**  
 - 🙌 [**Daniel Bourke**](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ) is my **Spirit Animal**
