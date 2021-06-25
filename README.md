@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Gaurav Reddy</h1> 
 
--  I’m currently working on [**FoodVision**](https://github.com/gauravreddy08/food-vision)
+-  I’m currently working on [**WildFire Detection**](https://github.com/gauravreddy08/wildfire-detection)
 -  I’m currently learning **Natural Language Processing**  
 -  I’m looking to collaborate on anything related **Machine Learning**  
 -  [**Daniel Bourke**](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ) is my **Spirit Animal**
