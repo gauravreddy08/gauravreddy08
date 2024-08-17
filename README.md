@@ -8,4 +8,4 @@
 
 
 
-<h5 align="center">Reach me out by <a href="mailto:gauravreddy008@gmail.com">gauravreddy008(at)gmail.com</a></h5> 
+<h5 align="center">Reach me out by <a href="mailto:gauravreddy008@gmail.com">gauravreddy008@gmail.com</a></h5> 
