@@ -1,3 +1,8 @@
+<h3 align="center">Check out $${\color{red}testGen}$$: AI Software Tester</h3> 
+
+
+<p align="center"><img src="assets/TestGen.gif"  width="80%"></p>
+
 <h4 align="center">Check out my latest project <a href="https://github.com/gauravreddy08/GlancyAI">GlancyAI</a></h4> 
 <p align="center" ><a href="https://github.com/gauravreddy08/GlancyAI"><img src="assets/GlancyAI.gif"  width="70%"></a></p>
 
