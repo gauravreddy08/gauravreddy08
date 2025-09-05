@@ -1,23 +1,29 @@
-<h3 align="center">
-  <a href="https://www.youtube.com/watch?v=ij5LJVJD6ac" target="_blank">I made cursor/windsurf in a week</a>
-</h3>
+<p align="center">
+  <i>If you are here, you are probably interested in my work.</i>
+</p>
 
-<a href="https://www.youtube.com/watch?v=ij5LJVJD6ac" target="_blank">
-  <img src="assets/codewithflow.png">
-</a>
 
-<h3 align="center">Other notable mentions</h3> 
-<a href="https://github.com/gauravreddy08/Xtinguish" target="_blank">
-  <img src="assets/xtinguish.png" width="32%">
-</a>
-<a href="https://github.com/gauravreddy08/pytorch-vision-transformer" target="_blank">
-  <img src="assets/vitpytorch.png" width="32%">
-</a>
-<a href="https://github.com/gauravreddy08/food-vision" target="_blank">
-  <img src="assets/foodvision.png" width="32%">
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ij5LJVJD6ac" target="_blank">
+    <img src="https://www.gtadkapally.com/assets/flow.png" width="32%">
+  </a>
+  <a href="https://www.youtube.com/watch?v=vYAvMhPeBVc" target="_blank">
+    <img src="https://www.gtadkapally.com/assets/mafia.png" width="32%">
+  </a>
+  <a href="https://www.youtube.com/watch?v=n5vYcVVIurg" target="_blank">
+    <img src="https://www.gtadkapally.com/assets/poogle.png" width="32%">
+  </a>
+</p>
 
-<h5 align="center">
-  Reach me out by 
-  <a href="mailto:gauravreddy008@gmail.com">gauravreddy008@gmail.com</a>
-</h5>
+
+
+<h4 align="center">Explore More</h4>
+
+<p align="center">
+  <a href="https://gtadkapally.com/everything-from-scratch" target="_blank"><b>Everything in ML from scratch</b></a><br/>
+  <a href="https://gtadkapally.com/writeups" target="_blank"><b>Technical articles and notes on ML</b></a>
+</p>
+
+<p align="center">
+  <a href="https://gtadkapally.com/resume.pdf" target="_blank">Open to work • Resume</a>
+</p>
